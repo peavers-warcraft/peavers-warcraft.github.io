@@ -1,16 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/peavers-warcraft/.github/main/profile/assets/logo.jpeg" alt="Peavers Warcraft" width="120"/>
-</p>
-
-<h1 align="center">Peavers Warcraft</h1>
-
-<p align="center">
-  <strong>World of Warcraft addons and tools</strong><br>
-  <a href="https://peavers.io">peavers.io</a>
-</p>
-
----
-
 We build lightweight, focused addons and utilities for World of Warcraft. Everything here is open source and free to use.
 
 ### What You'll Find
