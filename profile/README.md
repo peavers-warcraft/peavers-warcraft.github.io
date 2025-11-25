@@ -6,29 +6,6 @@
   <a href="https://www.patreon.com/Peavers"><img src="https://img.shields.io/badge/Patreon-000?style=for-the-badge&logo=patreon&logoColor=white" alt="Patreon"/></a>
 </p>
 
-<br>
-
-Open source addons and tools for World of Warcraft.
-
-<table>
-<tr>
-<td>
-
-**Addons**<br>
-<sub>Quality-of-life improvements for retail and classic</sub>
-
-</td>
-<td>
-
-**Tools**<br>
-<sub>Companion utilities and data exports</sub>
-
-</td>
-<td>
-
-**Docs**<br>
-<sub>Guides and references at <a href="https://peavers.io">peavers.io</a></sub>
-
-</td>
-</tr>
-</table>
+<p align="center">
+  Open source addons and tools for World of Warcraft
+</p>
