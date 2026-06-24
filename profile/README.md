@@ -7,10 +7,10 @@
 </p>
 
 <p align="center">
-  Open source addons and tools for World of Warcraft
+  Open source addons for World of Warcraft
 </p>
 
 <p align="center">
-  <sub>☁️ Back up your addon settings with <a href="https://vault.peavers.io">Vault</a></sub>
+  <sub><a href="https://peavers.io">peavers.io</a></sub>
 </p>
 
